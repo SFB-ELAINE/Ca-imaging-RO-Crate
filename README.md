@@ -3,7 +3,17 @@
 This repository contains [Research Object Crates (RO-Crates)](https://w3id.org/ro/crate/1.1) bundling the research data and their retrospective provenance that was transferred from Electronic Lab Notebook (ELN) protocols using an automated structure-based approach.
 The research data was previously published under the [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) by:
 
-Susanne Staehlke, J. Barbara Nebe. “Research data of Calcium Imaging after electrical stimulation.” Zenodo (2021). doi:10.5281/ZENODO.4923173
+Susanne Staehlke, J. Barbara Nebe.<br>
+**Research data of Calcium Imaging after electrical stimulation.** <br>
+Zenodo (2021).<br>
+https://doi.org/10.5281/zenodo.4923173
+
+The automated approach to create these bundles is described in full detail in this article:
+
+Max Schröder, Susanne Staehlke, Paul Groth, J. Barbara Nebe, Sascha Spors, Frank Krüger.<br>
+**Structure-based knowledge acquisition from electronic lab notebooks for research data provenance documentation.**<br>
+Journal of Biomedical Semantics 13, 4 (2022).<br>
+https://doi.org/10.1186/s13326-021-00257-x
 
 ## License
 
@@ -11,9 +21,7 @@ Susanne Staehlke, J. Barbara Nebe. “Research data of Calcium Imaging after ele
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-In order to reference the GitHub repository, please attribute this as:
-
-Max Schröder, Susanne Staehlke, Paul Groth, J. Barbara Nebe, Sascha Spors, and Frank Krüger. “RO-Crates from Calcium Imaging Experiments,” https://github.com/SFB-ELAINE/Ca-imaging-RO-Crate
+In order to reference this dataset, please consider the information in the [CITATION.cff](CITATION.cff) file.
 
 ## Structure of the Repository
 
