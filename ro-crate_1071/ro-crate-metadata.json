@@ -3012,7 +3012,7 @@
         "@id": "http://purl.obolibrary.org/obo/UO_0000028"
       },
       "prov:value": {
-        "@type": "xsd:nonNegativeInteger",
+        "@type": "xsd:decimal",
         "@value": "3.6"
       }
     },
@@ -6592,7 +6592,7 @@
         "@id": "http://purl.obolibrary.org/obo/UO_0000028"
       },
       "prov:value": {
-        "@type": "xsd:nonNegativeInteger",
+        "@type": "xsd:decimal",
         "@value": "3.6"
       }
     },
