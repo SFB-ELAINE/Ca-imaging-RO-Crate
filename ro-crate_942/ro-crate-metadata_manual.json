@@ -1619,7 +1619,8 @@
       "@id": "https://eln-provenance.elaine.uni-rostock.de/database/747",
       "@type": [
         "IndividualProduct",
-        "http://purl.obolibrary.org/obo/ERO_0000863" # FIXME: not found!
+        "http://purl.obolibrary.org/obo/ERO_0000863"
+        // FIXME: not found!
       ],
       "foaf:name": {
         "@language": "en",
@@ -3561,7 +3562,7 @@
       "description": {
         "@language": "en",
         "@value": "take out calculated volume for 2,000,000 cells in new [Cultivation container] Tube: 10ml (LOT E1701345)"
-      }
+      },
       "prov:used": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/database/743/lot/E1701345"
       },
