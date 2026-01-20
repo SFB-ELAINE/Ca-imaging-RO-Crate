@@ -90,7 +90,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -105,7 +105,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -221,7 +221,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/greiner"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:19:40"
       }
@@ -260,7 +260,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-nach-Stimulation_1V_7.9Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -275,7 +275,7 @@
         "@language": "en",
         "@value": "Data/03_Bild-nach-Stimulation_1V_7.9Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:50"
       },
@@ -418,7 +418,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-nach-Stimulation_1V_7.9Hz_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -480,7 +480,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -557,7 +557,7 @@
         "@language": "en",
         "@value": "Data/02_Bild-nach-Stimulation_5V_7.9Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:35"
       },
@@ -648,7 +648,7 @@
         "@language": "en",
         "@value": "Data/03_1-V-7.9-Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:40"
       },
@@ -682,7 +682,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/eppendorf"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T10:35:27"
       }
@@ -725,7 +725,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/cellvis"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:19:14"
       }
@@ -744,7 +744,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-nach-Stimulation_1V_7.9Hz_def.-Bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:40"
       },
@@ -767,7 +767,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/biochrom_fcs_superior"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:23:43"
       }
@@ -781,7 +781,7 @@
         "@language": "en",
         "@value": "Data/06_Bild-nach-Stimulation_Kontrolle.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:21:02"
       },
@@ -799,7 +799,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:46"
       },
@@ -825,7 +825,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:53"
       },
@@ -863,7 +863,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-Stimulation_5V_7.9Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:50"
       },
@@ -944,7 +944,7 @@
       "hasFile": {
         "@id": "Protocol/Database/Buffer%20-%20HEPES%20I%20(isotonic).html"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T09:25:06"
       }
@@ -958,7 +958,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-nach-Stimulation_1V_7.9Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:54"
       },
@@ -976,7 +976,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -1072,7 +1072,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-Stimulation_5V_7.9Hz_def-Bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -1087,7 +1087,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:21:05"
       },
@@ -1312,7 +1312,7 @@
         "@language": "en",
         "@value": "Data/05_Bild-nach-Stimulation_5V_20Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:58"
       },
@@ -1330,7 +1330,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-nach-Stimulation_1V_20Hz_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:43"
       },
@@ -1345,7 +1345,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-nach-Stimulation_Kontrolle_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:51"
       },
@@ -1360,7 +1360,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-nach-Stimulation_5V_20Hz_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -1384,7 +1384,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "http://purl.obolibrary.org/obo/CLO_0000006"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T15:52:41"
       }
@@ -1418,7 +1418,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -1433,7 +1433,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:51"
       },
@@ -1610,7 +1610,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/sanyo"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T09:44:27"
       }
@@ -1633,7 +1633,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/ionoptix"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-06-09T14:58:12"
       }
@@ -1656,7 +1656,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/ols_omni_life_sciences"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T09:22:37"
       }
@@ -1807,7 +1807,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:40"
       },
@@ -1947,7 +1947,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/ols_omni_life_sciences"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T10:43:28"
       }
@@ -1968,7 +1968,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/carl_zeiss"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T10:48:08"
       }
@@ -1982,7 +1982,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -1997,7 +1997,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-nach-Stimulation_Kontrolle_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -2043,7 +2043,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_t150.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:51"
       },
@@ -2063,7 +2063,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_t150.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:41"
       },
@@ -2099,7 +2099,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -2114,7 +2114,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -2129,7 +2129,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-nach-Stimulation_1V_20Hz_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -2148,7 +2148,7 @@
       "hasFile": {
         "@id": "Protocol/Database/Enzyme%20-%20TrypsinEDTA.html"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:27:04"
       }
@@ -2162,7 +2162,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-nach-Stimulation_Kontrolle.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:21:05"
       },
@@ -2180,7 +2180,7 @@
         "@language": "en",
         "@value": "Data/06_Bild-nach-Stimulation_Kontrolle.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:46"
       },
@@ -2195,7 +2195,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:50"
       },
@@ -2213,7 +2213,7 @@
         "@language": "en",
         "@value": "Data/02_5-V-7.9-Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:37"
       },
@@ -2236,7 +2236,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/life_technologies_corporation"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T09:27:06"
       }
@@ -2340,7 +2340,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_t001.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:43"
       },
@@ -2355,7 +2355,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-nach-Stimulation_1V_7.9Hz_def.-Bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -2569,7 +2569,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_t150.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:46"
       },
@@ -2584,7 +2584,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-nach-Stimulation_1V_20Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:58"
       },
@@ -2602,7 +2602,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-nach-Stimulation_5V_20Hz_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:45"
       },
@@ -2617,7 +2617,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -2632,7 +2632,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:46"
       },
@@ -2872,7 +2872,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -2887,7 +2887,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-nach-Stimulation_5V_20Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:46"
       },
@@ -2902,7 +2902,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-Stimulation_5V_7.9Hz_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:38"
       },
@@ -2929,7 +2929,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/greiner"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:19:40"
       },
@@ -2956,7 +2956,7 @@
         "@language": "en",
         "@value": "Data/04_1-V-20-Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:42"
       },
@@ -3063,7 +3063,7 @@
         "@language": "en",
         "@value": "Data/02_Bild-nach-Stimulation_5V_7.9Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:48"
       },
@@ -3106,7 +3106,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-nach-Stimulation_Kontrolle_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -3158,7 +3158,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/serva_electrophoresis_gmbh"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:48:43"
       }
@@ -3197,7 +3197,7 @@
         "@language": "en",
         "@value": "Data/04_Bild-nach-Stimulation_1V_20Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:54"
       },
@@ -3372,7 +3372,7 @@
         "@language": "en",
         "@value": "Data/04_Bild-nach-Stimulation_1V_20Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:43"
       },
@@ -3422,7 +3422,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_t150.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:38"
       },
@@ -3544,7 +3544,7 @@
         "@language": "en",
         "@value": "Data/03_Bild-nach-Stimulation_1V_7.9Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:38"
       },
@@ -3585,7 +3585,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -3620,7 +3620,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/carl_zeiss"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T10:37:42"
       }
@@ -3641,7 +3641,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/ionoptix"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-06-09T15:00:39"
       }
@@ -3692,7 +3692,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_def.-Bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:41"
       },
@@ -3707,7 +3707,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -3778,7 +3778,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-Stimulation_5V_7.9Hz_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -3793,7 +3793,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -3808,7 +3808,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:37"
       },
@@ -3843,7 +3843,7 @@
         "@language": "en",
         "@value": "Data/01_Zeitserie-Stimulation_Kontrolle.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:47"
       },
@@ -3858,7 +3858,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-nach-Stimulation_1V_20Hz_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -3913,7 +3913,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-nach-Stimulation_1V_7.9Hz_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -4086,7 +4086,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:21:01"
       },
@@ -4109,7 +4109,7 @@
       "hasFile": {
         "@id": "Protocol/Database/Buffer%20-%20HEPES%20II%20(hypotonic).html"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T09:23:50"
       }
@@ -4172,7 +4172,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/greiner"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:19:59"
       }
@@ -4477,7 +4477,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:43"
       },
@@ -4556,7 +4556,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-nach-Stimulation_1V_20Hz_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -4592,7 +4592,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-Stimulation_5V_7.9Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:38"
       },
@@ -4607,7 +4607,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_def.-Bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -4671,7 +4671,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/eppendorf"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T09:32:54"
       }
@@ -4723,7 +4723,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "http://purl.obolibrary.org/obo/CLO_0000006"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T15:52:41"
       },
@@ -4786,7 +4786,7 @@
         "@language": "en",
         "@value": "Data/05_5-V-29-Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:45"
       },
@@ -4801,7 +4801,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-nach-Stimulation_Kontrolle_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -4816,7 +4816,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -4878,7 +4878,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-nach-Stimulation_5V_20Hz_def-bereiche.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -4903,7 +4903,7 @@
         "@language": "en",
         "@value": "Data/06_Kontrolle.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:48"
       },
@@ -4918,7 +4918,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -4933,7 +4933,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-nach-Stimulation_Kontrolle_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:55"
       },
@@ -4991,7 +4991,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:43"
       },
@@ -5035,7 +5035,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/ratiopharm_gmbh"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:25:48"
       }
@@ -5132,7 +5132,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/life_technologies_gmbh"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T14:21:50"
       }
@@ -5183,7 +5183,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-Stimulation_5V_20Hz_t001.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:46"
       },
@@ -5221,7 +5221,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_t001.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:41"
       },
@@ -5236,7 +5236,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-Stimulation_1V_7.9Hz_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -5260,7 +5260,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/sigma_aldrich"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T10:51:32"
       }
@@ -5279,7 +5279,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-nach-Stimulation_5V_20Hz_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -5294,7 +5294,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:37"
       },
@@ -5320,7 +5320,7 @@
         "@language": "en",
         "@value": "Data/03_Zeitserie-nach-Stimulation_1V_7.9Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:40"
       },
@@ -5363,7 +5363,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:57"
       },
@@ -5488,7 +5488,7 @@
       "http://purl.obolibrary.org/obo/OBI_0000647": {
         "@id": "https://eln-provenance.elaine.uni-rostock.de/manufacturer/sigma_aldrich"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-04-29T10:51:32"
       },
@@ -5505,7 +5505,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-nach-Stimulation_5V_20Hz.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:21:01"
       },
@@ -5609,7 +5609,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_screen.jpg_metadata.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -5624,7 +5624,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-Stimulation_5V_7.9Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -5639,7 +5639,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_def-bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -5736,7 +5736,7 @@
         "@language": "en",
         "@value": "siegfried_output.json"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-06-30T12:40:00"
       }
@@ -5775,7 +5775,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-nach-Stimulation_1V_20Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:53"
       },
@@ -5790,7 +5790,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_def-Bereiche.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:52"
       },
@@ -5805,7 +5805,7 @@
         "@language": "en",
         "@value": "Data/01_Zeitserie-nach-Stimulation_Kontrolle.czi"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-02-08T13:20:47"
       },
@@ -5820,7 +5820,7 @@
         "@language": "en",
         "@value": "Data/02_Zeitserie-nach-Stimulation_5V_7.9Hz_t001.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:37"
       },
@@ -6416,7 +6416,7 @@
         "@language": "en",
         "@value": "Data/05_Zeitserie-nach-Stimulation_5V_20Hz_screen.xml"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:54"
       },
@@ -6464,7 +6464,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_t001.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:51"
       },
@@ -6479,7 +6479,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-Stimulation_Kontrolle_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:51"
       },
@@ -6494,7 +6494,7 @@
         "@language": "en",
         "@value": "Data/06_Zeitserie-nach-Stimulation_Kontrolle_def-bereiche.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:51"
       },
@@ -6530,7 +6530,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-nach-Stimulation_1V_20Hz_screen.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:43"
       },
@@ -6553,7 +6553,7 @@
         "@language": "en",
         "@value": "Data/05_Bild-nach-Stimulation_5V_20Hz.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:44"
       },
@@ -6568,7 +6568,7 @@
         "@language": "en",
         "@value": "Data/04_Zeitserie-Stimulation_1V_20Hz_t150.jpg"
       },
-      "https://schema.org/dateModified": {
+      "http://schema.org/dateModified": {
         "@type": "xsd:dateTime",
         "@value": "2021-03-03T16:58:44"
       },
